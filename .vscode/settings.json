@@ -1,0 +1,6 @@
+{
+  "workbench.editorAssociations": {
+    "*.excalidraw.md": "pomdtr.excalidraw-editor",
+    "*.excalidraw": "pomdtr.excalidraw-editor"
+  }
+}
