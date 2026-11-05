@@ -1,28 +1,30 @@
 # Visual Engineering & Computer Science Notes
 
-A curated collection of visual notes, system architectures, and hand-drawn conceptual diagrams created using **Obsidian** and **Excalidraw**.
+A curated collection of visual notes, system architectures, and hand-drawn conceptual diagrams on software engineering and computer science concepts.
 
 ---
 
-## 🎨 How to View Diagrams Directly in Browser (No Download Required)
+## 🎨 How to View the Diagrams (2 Ways)
 
-All notes are provided in two formats:
-- **`.excalidraw`**: Native Excalidraw JSON drawings (opens in web viewers, excalidraw.com, and VS Code).
-- **`.excalidraw.md`**: Obsidian-compatible markdown notes.
+These notes are stored as native **`.excalidraw`** files. You can view and interact with them using either of these two methods:
 
-### Option 1: View via `github.dev` (Web VS Code)
-1. On any page of this repo, press the **`.` (period)** key on your keyboard.
-2. In the Extensions sidebar (`Ctrl+Shift+X`), install **Excalidraw** (by *pomdtr*).
-3. If prompted with **"Restricted Mode"** at bottom-left, click it and choose **Trust**.
-4. Click any **`.excalidraw`** file — it will render the full interactive canvas immediately in your browser!
-
-### Option 2: View on Excalidraw.com (Instant & Free)
-1. Open [excalidraw.com](https://excalidraw.com).
-2. Click on any `.excalidraw` file in this repository, click **Download raw file** (or copy raw), and drag it onto the canvas.
+### Method 1: View Directly in Your Browser (via `github.dev`) — *No Downloads*
+1. On any page of this GitHub repository, press the **`.` (period)** key on your keyboard (or change the URL from `github.com` to `github.dev`).
+2. This opens the repository inside GitHub's free browser-based VS Code.
+3. If you see **"Restricted Mode"** in the bottom-left status bar, click it and select **"Trust"**.
+4. In the Extensions sidebar (`Ctrl + Shift + X`), search for **`Excalidraw`** (by *pomdtr*) and click **Install in Web**.
+5. Click on any **`.excalidraw`** file — it opens immediately in an interactive dark-themed canvas!
 
 ---
 
-## Topics & Contents
+### Method 2: Download & Open in Excalidraw.com
+1. Click on any note in this repository and click the **Download** button.
+2. Open **[excalidraw.com](https://excalidraw.com)** in your browser.
+3. Simply **drag and drop** the downloaded `.excalidraw` file directly into the browser window — it will render instantly with full fidelity.
+
+---
+
+## 📚 Topics & Contents
 
 ### [Computer Networks](./Computer%20Networks)
 - [1. What Happens When We Make an HTTP Request](./Computer%20Networks/1%20What%20Happen%20When%20We%20Make%20a%20HTTP%20Request.excalidraw)
